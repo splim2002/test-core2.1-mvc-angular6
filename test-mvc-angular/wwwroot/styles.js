@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\src\styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! C:\Users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\src\styles.scss */"./src/styles.scss");
 
 
 /***/ })

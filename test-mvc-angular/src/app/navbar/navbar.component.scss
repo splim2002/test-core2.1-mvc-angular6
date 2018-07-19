@@ -1,0 +1,18 @@
+.topnav {
+  border: 1px solid grey;
+  padding: 10px;
+
+  .logo {
+    width: 100px;
+    background: #f7f71a;
+    display: inline-block;
+  }
+
+  .profile {
+    width: 100px;
+    background: #f7f71a;
+    display: inline-block;
+    float: right;
+    text-align: right;
+  }
+}
