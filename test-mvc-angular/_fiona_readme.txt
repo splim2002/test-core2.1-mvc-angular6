@@ -6,12 +6,27 @@
 
 ——————————————————————————————————————————————————————
 Updates:
-==========================
 
-#Add component [navbar]
+==========================
+#(1) Add component [navbar]
+#(1.1)
 @CMD ==> C:\projects\test-mvc-angular\test-mvc-angular
 >ng generate component navbar
 
 ==========================
+#(2) Add Bootstrap
+Reference: https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
 
+#(2.1) Installing Bootstrap from NPM
+@CMD
+>npm i bootstrap@latest
 
+//You can check the latest version of package before install
+> npm show <package> version
+> npm show bootstrap version
+
+#(2.2) Importing the CSS
+- Configure angular.json (refer to link)
+- Import directly in src/style.css or src/style.scss
+
+==========================
