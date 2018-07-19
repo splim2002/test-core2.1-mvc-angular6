@@ -1,0 +1,14 @@
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\bin\Debug\netcoreapp2.1\test-mvc-angular.deps.json
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\bin\Debug\netcoreapp2.1\test-mvc-angular.runtimeconfig.json
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\bin\Debug\netcoreapp2.1\test-mvc-angular.runtimeconfig.dev.json
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\bin\Debug\netcoreapp2.1\test-mvc-angular.dll
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\bin\Debug\netcoreapp2.1\test-mvc-angular.pdb
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\obj\Debug\netcoreapp2.1\test-mvc-angular.csprojAssemblyReference.cache
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\obj\Debug\netcoreapp2.1\test-mvc-angular.csproj.CoreCompileInputs.cache
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\obj\Debug\netcoreapp2.1\test-mvc-angular.RazorAssemblyInfo.cache
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\obj\Debug\netcoreapp2.1\test-mvc-angular.RazorAssemblyInfo.cs
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\obj\Debug\netcoreapp2.1\test-mvc-angular.AssemblyInfoInputs.cache
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\obj\Debug\netcoreapp2.1\test-mvc-angular.AssemblyInfo.cs
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\obj\Debug\netcoreapp2.1\test-mvc-angular.RazorTargetAssemblyInfo.cache
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\obj\Debug\netcoreapp2.1\test-mvc-angular.dll
+c:\users\fionalim\source\repos\test-mvc-angular\test-mvc-angular\obj\Debug\netcoreapp2.1\test-mvc-angular.pdb
