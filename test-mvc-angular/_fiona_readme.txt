@@ -51,3 +51,14 @@ installation reference: https://stackoverflow.com/questions/48184079/include-for
 >ng generate component home
 
 ==========================
+#(5) Add module [app-routing]
+Reference: https://angular.io/tutorial/toh-pt5
+#(5.1)
+@CMD ==> C:\projects\test-mvc-angular\test-mvc-angular
+>ng generate module app-routing --flat --module=app
+Note:
+--flat puts the file in src/app instead of its own folder.
+--module=app tells the CLI to register it in the imports array of the AppModule.
+
+
+==========================
