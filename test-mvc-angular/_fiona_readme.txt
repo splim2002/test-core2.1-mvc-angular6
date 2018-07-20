@@ -26,7 +26,21 @@ Reference: https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-pro
 > npm show bootstrap version
 
 #(2.2) Importing the CSS
-- Configure angular.json (refer to link)
+- Configure angular.json (refer to link), OR
+- Import directly in src/style.css or src/style.scss
+
+==========================
+#(3) Add Font-Awesome
+npm package: https://www.npmjs.com/package/@fortawesome/fontawesome
+Office URL: https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css
+installation reference: https://stackoverflow.com/questions/48184079/include-fortawesome-fontawesome-to-angular-cli-project
+
+#(3.1) Installing Webpack from NPM
+@CMD
+>npm i @fortawesome/fontawesome-free
+
+#(3.2) Importing the CSS
+- Configure angular.json (refer to link), OR
 - Import directly in src/style.css or src/style.scss
 
 ==========================
