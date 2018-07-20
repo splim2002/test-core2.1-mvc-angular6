@@ -60,5 +60,7 @@ Note:
 --flat puts the file in src/app instead of its own folder.
 --module=app tells the CLI to register it in the imports array of the AppModule.
 
+#(5.2)
+- Create routes & update navbar at HTML
 
 ==========================
