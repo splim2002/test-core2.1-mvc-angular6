@@ -44,3 +44,10 @@ installation reference: https://stackoverflow.com/questions/48184079/include-for
 - Import directly in src/style.css or src/style.scss
 
 ==========================
+#(4) Add component [Product] & [Home]
+#(4.1)
+@CMD ==> C:\projects\test-mvc-angular\test-mvc-angular
+>ng generate component product
+>ng generate component home
+
+==========================
